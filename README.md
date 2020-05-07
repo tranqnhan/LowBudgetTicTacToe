@@ -14,7 +14,7 @@
 I actually have much greater plan for the AI. I wanted to make the AI to play the perfect tic tac toe game, however I couldn't be bothered. So, the current AI uses random number generator to move. If you manages to tie to this AI, you are either extremely lucky or absolute trash at tic tac toe.
 
 ## The Board
-I utilize advanced C++ techniques such as multi-dimensional array and looping to create the ultimate tic tac toe experience.
+I utilized advanced C++ techniques such as multi-dimensional array and looping to create the ultimate tic tac toe experience.
 
 ## The Winning Condition
 I just use a bunch of for loops and hope for the best.
