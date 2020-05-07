@@ -20,4 +20,4 @@ I utilize advanced C++ techniques such as multi-dimensional array and looping to
 I just use a bunch of for loops and hope for the best.
 
 ## The DLLs Used
-So I use SDL2 and SDL2_image to generate graphics and input. In hindsight, I probably shouldn't use that because it takes longer to set up SDL than it is to make the actual game. SDL2 and C++ teamed together to decrease my sanity. I realized that I capitalize on my insanity to push myself to finish the tic tac toe game, and so I did.
+So I use SDL2 and SDL2_image to generate graphics and input. In hindsight, I probably shouldn't use SDL2 because it takes longer to set up SDL2 than it is to make the actual game. Eventually, SDL2 and C++ teamed together to decrease my sanity by a few points. However, I realized that I capitalize on my insanity to push myself to finish the tic tac toe game, and so I did.
