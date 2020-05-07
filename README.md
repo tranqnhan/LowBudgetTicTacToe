@@ -1,4 +1,4 @@
-# LowBudgetTicTacToe
+# Low Budget Tic-Tac-Toe
  
 
 - PURPOSE OF PROJECT: This is a graphical implementation of the famous and innovative game called Tic-Tac-Toe                    
