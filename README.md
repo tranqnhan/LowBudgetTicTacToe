@@ -6,7 +6,7 @@
 - HOW TO START THIS PROJECT: Go to release file, download the binary, and follow instructions in the release.
 - AUTHORS: Nhan man                          
 - USER INSTRUCTIONS: It's a tic tac toe game.
-- PROBLEM: I have to make a tic tac toe program to pass.
+- PROBLEM: I have to make a tic tac toe program to pass C++.
 
 # How I Make The Masterpiece
 
