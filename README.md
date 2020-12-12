@@ -11,7 +11,7 @@
 # How I Make The Masterpiece
 
 ## The AI
-I actually have much greater plan for the AI. I wanted to make the AI to play the perfect tic tac toe game, however I couldn't be bothered. So, the current AI uses random number generator to move. If you manages to tie to this AI, you are either extremely lucky or absolute trash at tic tac toe.
+I actually have much greater plan for the AI. I wanted to make the AI to play the perfect tic tac toe game, however I couldn't be bothered. So, the current AI uses random number generator to move.
 
 ## The Board
 I utilized advanced C++ techniques such as multi-dimensional array and looping to create the ultimate tic tac toe experience.
